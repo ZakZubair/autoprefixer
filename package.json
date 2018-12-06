@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": "postcss/autoprefixer",
   "dependencies": {
-    "babel-register": "^6.24.0",
+    "babel-register": "^6.24.1",
     "browserslist": "^2.3.3",
     "caniuse-lite": "^1.0.30000715",
     "normalize-range": "^0.1.2",
